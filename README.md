@@ -21,3 +21,6 @@ Players interact with a Tkinter text adventure where they enter different rooms 
 - inventory: Check your inventory. 
 - score: See your current score. 
 - help: Display these directions again. 
+
+## Haunted Plane Game
+The objective of the game is to learn the parts of the plane and do a quiz to test their knowledge and escape. The player needs to get 12/15 on the quiz to escape, and they are allowed to customize their avatars and enable/disable sound.
