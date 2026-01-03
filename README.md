@@ -24,3 +24,6 @@ Players interact with a Tkinter text adventure where they enter different rooms 
 
 ## Haunted Plane Game
 The objective of the game is to learn the parts of the plane and do a quiz to test their knowledge and escape. The player needs to get 12/15 on the quiz to escape, and they are allowed to customize their avatars and enable/disable sound.
+
+## Clinic Prototype
+A prototype for a Medical Spanish game that will use machine learning. The player plays as a medical student in Mexico and communicates with the patient in Spanish. They get feedback on the grammar of their responses and can track their progress on the areas they missed.
